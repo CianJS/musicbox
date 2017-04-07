@@ -1,0 +1,41 @@
+<------skin norte-americana------->
+----------------------------------------------------------------------------------------------------------------------------
+
+
+#player,#player a{color:#878686;  font-size: 0px; font-family: Calibri}
+#player{repeatMode:no; background:url(http://static.tumblr.com/zeaszfj/bBVmhrmp6/default.png); background-position:center}
+#player .mainImage{background:url(http://static.tumblr.com/zeaszfj/b0tmhrmww/default.jpg)}
+
+#player #baseLeft{width:93px}
+#player #baseRight{width:145px}
+#player .button{width:26px} 
+#player #play{background:url(http://static.tumblr.com/zeaszfj/Rdcmhrmzw/default.jpg)}
+#player #play,#player #pause{left:26px}
+#player #previous{left:0px}
+#player #next{left:52px}
+#player #title{left:90px;  font-size: 8px}
+#player #tooltip{right:196px}
+#player #timer{right:120px}
+#player #list{right:0px}
+
+#player .text {z-index: 2; font-size: 12px}
+
+#player #title {left: 90px; font-size: 12px; color: #878686}
+
+#player #seeker{right:199px}
+#player #seekerBase{border-color:#FFFFFF; opacity:0.8}
+#player #seekerBuffered{background-color:#E8E8E8}
+#player #seekerSliderBase{left: -3.5px;width: 19px;height: 19px;top: 2px;background: url(http://static.tumblr.com/zeaszfj/e1Rmhrn0y/default.png);opacity:0.6}
+
+#player #volume{width:65px; right:39px}
+#player #volumeSlider{width:8px; background:url(http://static.tumblr.com/zeaszfj/qhhmhrn2x/default.jpg)}
+
+#playlist,#playlist .module,a{border-color:#8B7765; color:#8B7765; font-family: Calibri}
+#playlist .module{repeatMode:no; background-position:justify}
+#playlist .module{color:#8B7765; background-color:#FFFFFF:#ffffff}
+#playlist h3{background:url(http://25.media.tumblr.com/074cfc7c009204dd930199adea7cb45e/tumblr_mwkl4xQRig1sgkj68o1_250.png); color:#8B8989; background-color:#D3D3D3}
+#playlist .even{background-color: transparent}
+#playlist .odd{background-color: transparent}
+#playlist .focus{background-color: transparent; color:#FFFFFF}
+
+#playlist #title .module,{Dih; font-size: 12px; color: #878686}
